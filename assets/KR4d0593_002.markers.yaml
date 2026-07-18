@@ -1080,6 +1080,7 @@ markers:
   - {type: substitution, offset: 3374, original: 舘, replacement: 館, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17344}}
   - {type: substitution, offset: 3376, original: 様, replacement: 樣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20747}}
   - {type: punctuation, offset: 3377, content: (, id: KR4d0593_krp_002-bkkpn1}
+  - {type: voice, offset: 3377, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 3380, content: ), id: KR4d0593_krp_002-bkkpn2}
   - {type: 'kr:newline', offset: 3380, content: '
 
@@ -1183,6 +1184,7 @@ markers:
   - {type: indent, offset: 3681, content: 　　　, id: KR4d0593_krp_002-bkkind28}
   - {type: variant, offset: 3683, length: 1, content: 歌, SBCK: 􅁔}
   - {type: punctuation, offset: 3684, content: (, id: KR4d0593_krp_002-bkkpn3}
+  - {type: voice, offset: 3684, length: 4, name: note, id: n2}
   - {type: substitution, offset: 3685, original: 暦, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20783}}
   - {type: punctuation, offset: 3688, content: ), id: KR4d0593_krp_002-bkkpn4}
   - {type: 'kr:newline', offset: 3688, content: '
@@ -1237,6 +1239,7 @@ markers:
   - {type: indent, offset: 3842, content: 　　　, id: KR4d0593_krp_002-bkkind29}
   - {type: substitution, offset: 3844, original: 彦, replacement: 彥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20772}}
   - {type: punctuation, offset: 3848, content: (, id: KR4d0593_krp_002-bkkpn5}
+  - {type: voice, offset: 3848, length: 17, name: note, id: n3}
   - {type: variant, offset: 3852, length: 1, content: 祭, SBCK: 􅀕}
   - {type: substitution, offset: 3861, original: 緫, replacement: 總, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19895}}
   - {type: punctuation, offset: 3863, content: /, id: KR4d0593_krp_002-bkkpn6}
@@ -1405,6 +1408,7 @@ markers:
       ', id: KR4d0593_krp_002-bkkkrnewl232}
   - {type: line-break, offset: 4370, content: '', id: KR4d0593_SBCK_002-9b12}
   - {type: punctuation, offset: 4383, content: (, id: KR4d0593_krp_002-bkkpn8}
+  - {type: voice, offset: 4383, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 4384, content: /, id: KR4d0593_krp_002-bkkpn9}
   - {type: punctuation, offset: 4385, content: ), id: KR4d0593_krp_002-bkkpn10}
   - {type: variant, offset: 4385, length: 1, content: 點, SBCK: 􅀧}
@@ -2104,6 +2108,7 @@ markers:
   - {type: substitution, offset: 6626, original: 譚, replacement: 談, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20152}}
   - {type: punctuation, offset: 6630, content: (, id: KR4d0593_krp_002-bkkpn11}
   - {type: substitution, offset: 6630, original: 譚, replacement: 談, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20152}}
+  - {type: voice, offset: 6630, length: 9, name: note, id: n5}
   - {type: variant, offset: 6632, length: 1, content: 𦣱, SBCK: 􅞾}
   - {type: punctuation, offset: 6638, content: /, id: KR4d0593_krp_002-bkkpn12}
   - {type: punctuation, offset: 6639, content: ), id: KR4d0593_krp_002-bkkpn13}
@@ -2191,4 +2196,4 @@ markers:
 
       ', id: KR4d0593_krp_002-bkkkrnewl367}
   back: []
-hash: sha256:85b3097e0d4137b796b799a0c9d37f7529db3c324cb21412d57972c0803f937b
+hash: sha256:03de451579f96de095bda9e2f3a5a7ce9c1fafd3f0fce8a5fce5449f83abd0dc
